@@ -33,3 +33,4 @@ wget https://raw.githubusercontent.com/IFOX-COMPANY/IFOXClient/main/IFOX%20Clien
 ping 127.0.0.1 -c 2
 chmod +x +s "./IFOX Client.sh"
 exit
+
