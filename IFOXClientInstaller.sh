@@ -27,4 +27,9 @@ wget https://raw.githubusercontent.com/IFOX-COMPANY/IFOXClient/main/options.txt
 ping 127.0.0.1 -c 2
 wget https://raw.githubusercontent.com/IFOX-COMPANY/IFOXClient/main/optionsof.txt
 ping 127.0.0.1 -c 2
+cd ..
+cd Desktop
+wget https://raw.githubusercontent.com/IFOX-COMPANY/IFOXClient/main/IFOX%20Client.sh
+ping 127.0.0.1 -c 2
+chmod +x +s "./IFOX Client.sh"
 exit
