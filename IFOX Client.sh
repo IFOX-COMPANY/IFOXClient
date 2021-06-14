@@ -13,5 +13,6 @@ ping 127.0.0.1 -c 2
 cd ..
 cd ..
 cd launcher
-chmod +x ./minecraft-launcher
-./minecraft-launcher
+clear
+echo PLEASE LAUNCH THE MINECRAFT LAUNCHER
+echo It does no longer open by itself after using the updater.
